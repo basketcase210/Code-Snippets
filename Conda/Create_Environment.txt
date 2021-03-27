@@ -1,0 +1,4 @@
+-- This will create a virtual environment
+
+
+Conda create --name myenv
